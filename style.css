@@ -196,7 +196,7 @@ font-size: 40px;
 @media screen and (max-width:576px) {
   #home p{
   position: absolute;
-  top: 50%;
+  top: 30%;
   font-size: 60px;
   opacity: 0;
   animation: iam 3s ease-in-out;
@@ -290,10 +290,10 @@ font-size: 40px;
 
 }
 .ed h4{
-  font-size: 20px;
+  font-size: 18px;
 }
 .ed p{
-  font-size: 15px;
+  font-size: 13px;
 }
  
 }
